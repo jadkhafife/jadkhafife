@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 My name is Khafife Jad </h1>
 
-<h2 align="center"> a Full Stack Developer from Morocco
+<h2 align="center"> from Morocco
 and I'm </h2>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=14BB28&center=true&vCenter=true&random=false&width=435&lines=A+Software+Engineering+Student;Always+up+for+new+challenges;A+Full+Stack+Web+Developer" alt="Typing SVG" /></a></div>
