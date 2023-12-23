@@ -35,4 +35,9 @@ and I'm </h2>
   <a href="http://www.github.com/jadkhafife"><img src="https://github-readme-stats.vercel.app/api?username=jadkhafife&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jadkhafife's GitHub stats" /></a>
 
   <a href="https://github.com/jadkhafife" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadkhafife&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div
+</div>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
